@@ -26,3 +26,7 @@ The problem with this is the search engines are not consistent, and we often get
 Right now, we are currently banned 100% from the Bing search engines.  This means that we are no longer showing up on DuckDuckGo, or any of the other piracy-focused search engines we use each day.  Google is still listing our articles, but having thousands of good quality articles written over the years is simply frustrating.
 
 For these reasons, I am turning to you -- the reader -- to help me figure out how to best share our articles and our content.
+
+Warm regards,
+Rob Cashman
+Owner of the Cashman Law Firm PLLC, and author of the TorrentLawyer Blog
