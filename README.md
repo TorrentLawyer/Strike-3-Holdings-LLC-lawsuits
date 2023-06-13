@@ -1,11 +1,11 @@
 # Strike-3-Holdings-LLC-lawsuits
 How to organize the Strike 3 Holdings LLC articles and blogs as they evolve their lawsuit filings.
 
-The Strike 3 Holdings LLC lawsuits started off as copycats of the Malibu Media LLC lawsuits, so they were initially really easy to write about.  But then they evolved into their own copyright troll animal with their own structure of filing copyright infringement lawsuits.
+The <a href="https://www.cashmanlawfirm.com/facts/strike-3-holdings/">Strike 3 Holdings LLC lawsuits</a> started off as <a href="https://www.torrentlawyer.com/strike-3-holdings-malibu-media-similarities/">copycats of the Malibu Media LLC lawsuits</a>, so they were initially really easy to write about.  But then they evolved into their own copyright troll animal with their own structure of filing copyright infringement lawsuits.
 
 The Strike 3 Holdings LLC lawsuits were original simple copyright infringement lawsuits with a "copyright troll" twist -- use the enforcement powers of the federal courts and the threat of a $150,000 judgement against an accused "John Doe" defendant to convince each accused defendant to pay a large settlement in return for a release of liability from that lawsuit.
 
-"Forum Shopping" -- We originally were discussing the choice of forums where Strike 3 Holdings LLC filed their lawsuits based on which federal court jurisdictions were friendly to their copyright troll styled lawsuits, and which were not.
+"Forum Shopping" -- We originally were discussing the choice of forums where Strike 3 Holdings LLC filed their lawsuits based on which federal court jurisdictions were friendly to their copyright troll styled lawsuits, and which were not.  Now they are choosing where to sue <a href="https://www.cashmanlawfirm.com/06-2023-strike-3-holdings-ohio-cases-by-month/#definition-of-forum-shopping">based on which type of defendant would be most willing to pay them a settlement</a>.
 
 "Evolution of Laws" -- We discussed the various rulings of various federal court judges across the US to help our clients understand the risks involved in being sued in one jurisdiction versus another.  For example, being sued in the California Northern District Court was a more serious issue than being sued in the Texas Southern District Court (which at the time was less friendly to copyright trolls).  
 
@@ -23,7 +23,7 @@ I like this approach, but the downside is that the front page of the website hid
 
 The problem with this is the search engines are not consistent, and we often get banned from a particular website because of the content we discuss on our websites.  Our websites are piracy friendly (our clients are defendants of piracy cases), and they discuss bittorrent subjects.  The fact that our lawsuit has the word "Torrent" in the domain name and that we discuss specific movie titles which have been pirated has gotten us banned multiple times from the search engines.
 
-Right now, we are currently banned 100% from the Bing search engines.  This means that we are no longer showing up on DuckDuckGo, or any of the other piracy-focused search engines we use each day.  Google is still listing our articles, but having thousands of good quality articles written over the years is simply frustrating.
+For example, our 200+ articles on the TorrentLawyer.com website were excluded from the Bing search engines for over a year (this has recently changed, and our articles are showing up again).  This mean that we were no longer showing up on DuckDuckGo, or any of the other piracy-focused search engines we use each day.  Google continued to list our articles, but having thousands of good quality articles written over the years censored and banned was simply frustrating.
 
 For these reasons, I am turning to you -- the reader -- to help me figure out how to best share our articles and our content.
 
